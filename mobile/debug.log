@@ -1,0 +1,5 @@
+[1016/115211.381:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/123938.966:WARNING:process_reader_win.cc(156)] Thread 9144 should be suspended, but previous_suspend_count is 0
+[1016/123948.746:ERROR:process_info.cc(617)] range at 0x38167ff000, size 0x1000 fully unreadable
+[1016/123948.746:ERROR:process_info.cc(617)] range at 0x3812ff8000, size 0x1788 fully unreadable
+[1016/124005.265:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\snels\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a34f6c89-fdaa-458a-859f-6f69dbfb78bf: O sistema não pode encontrar o caminho especificado. (0x3)
